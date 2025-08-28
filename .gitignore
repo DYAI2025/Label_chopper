@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Folders
+DHL_Labels_Input/
+DHL_Labels_Output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
